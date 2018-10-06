@@ -144,3 +144,6 @@ Temporary Items
 
 
 # End of https://www.gitignore.io/api/clion,c++,macOS
+
+.idea
+CMakeLists.txt
