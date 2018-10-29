@@ -43,12 +43,6 @@ vector<vector<int>> fourSum(vector<int>& nums, int target) {
                 }
                 vector<int> r;
 
-//                cout << "---- " << endl;
-//                cout << "i: " << i << " nums[i]: " << nums[i] << endl;
-//                cout << "j: " << j << " nums[j]: " << nums[j] << endl;
-//                cout << "tmp[0]: " << tmp[0] << " tmp[1]: " << tmp[1] << endl;
-//                cout << "tmp[2]: " << tmp[2] << " tmp[3]: " << tmp[3] << endl;
-//                cout << "----" << endl;
                 r.push_back(nums[i]);
                 r.push_back(nums[j]);
                 r.push_back(tmp[1]);
@@ -65,6 +59,40 @@ vector<vector<int>> fourSum(vector<int>& nums, int target) {
         }
     }
 
+    return result;
+}
+
+vector<vector<int>> fourSum2(vector<int> &nums, int target) {
+    vector<vector<int>> result;
+    if (nums.size() < 4)
+        return result;
+    sort(nums.begin(), nums.end());
+
+    unordered_map<int, vector<pair<int, int>>> cache;
+    for (size_t a = 0; a < nums.size(); ++a) {
+        for (size_t b = a + 1; b < nums.size(); ++b) {
+            cache[nums[a] + nums[b]].push_back(pair<int, int>(a, b));
+        }
+    }
+
+    for (int c = 0; c < nums.size(); ++c) {
+        for (size_t d = c + 1; d < nums.size(); ++d) {
+            const int key = target - nums[c] - nums[d];
+            if (cache.find(key) == cache.end())
+                continue;
+
+            const auto &vec = cache[key];
+            for (size_t k = 0; k < vec.size(); ++k) {
+                if (c <= vec[k].second)
+                    continue; // have duplication
+
+                result.push_back({nums[vec[k].first],
+                                  nums[vec[k].second], nums[c], nums[d]});
+            }
+        }
+    }
+    sort(result.begin(), result.end());
+    result.erase(unique(result.begin(), result.end()), result.end());
     return result;
 }
 
