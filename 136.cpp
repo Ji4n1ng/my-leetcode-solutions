@@ -26,7 +26,8 @@ int singleNumber(vector<int>& nums) {
 
 
 //16ms, 14.02%
-int singleNumber2(vector<int>& nums) {set<int> n;
+int singleNumber2(vector<int>& nums) {
+    set<int> n;
     for (auto i: nums) {
         if (n.find(i) == n.end()) {
             n.insert(i);
@@ -38,6 +39,16 @@ int singleNumber2(vector<int>& nums) {set<int> n;
         return i;
     }
     return -1;
+}
+
+// 这是答案，用异或来做，之前没接触过这个。
+// 我的做法利用了额外的空间，不符合要求。
+int singleNumber(vector<int>& nums) {
+    int x = 0;
+    for (auto i : nums) {
+        x ^= i;
+    }
+    return x;
 }
 
 int main() {
