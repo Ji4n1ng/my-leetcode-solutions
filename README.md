@@ -4,6 +4,8 @@ My LeetCode solutions in C++.
 
 Let's fuck it up.
 
+> The order of my solutions is referenced to [soulmachine/leetcode](https://github.com/soulmachine/leetcode).
+
 | # | Title | Difficulty | Time | Result |
 | --- | --- | --- | --- | --- |
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Remove Duplicates from Sorted Array | Easy | - | √ 100 |
