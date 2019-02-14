@@ -36,7 +36,7 @@ Let's fuck it up.
 | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Remove Duplicates from Sorted List    | Easy       | 2019.02.09-10 | √ 16.61 |
 | [82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Remove Duplicates from Sorted List II | Medium     | 2019.02.11-12 | √ 12.08 |
 | [61](https://leetcode.com/problems/rotate-list/)             | Rotate List                           | Medium     | 2019.02.13-14 | √ 96.46 |
-| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List      | Medium     | 2019.02.15 |  |
+| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List      | Medium     | 2019.02.15 | √ 100 |
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs/)     | Swap Nodes in Pairs                   | Medium     | 2019.02.16    |  |
 | [25](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Reverse Nodes in k-Group              | Hard       | 2019.02.17-18 |  |
 | [138](https://leetcode.com/problems/copy-list-with-random-pointer/) | Copy List with Random Pointer | Medium | 2019.02.19 | |
