@@ -29,7 +29,7 @@ int singleNumber(vector<int>& nums) {
 // 如果 count[i] 是 3 的整数倍，则忽略；否则就把该位取出来组成答案。
 int singleNumber2(vector<int>& nums) {
     const int W = sizeof(int) * 8; // 一个整数的 bit 数，即整数字长
-    􏱟􏱪􏰬􏱫􏱬int count[W]; // count[i] 表示在在 i 位出现的 1 的次数
+    int count[W]; // count[i] 表示在在 i 位出现的 1 的次数
     fill_n(&count[0], W, 0);
     for (int i = 0; i < nums.size(); i++) {
         for (int j = 0; j < W; j++) {
