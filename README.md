@@ -40,7 +40,7 @@ Let's fuck it up.
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs/)     | Swap Nodes in Pairs                   | Medium     | 2019.02.16    | √ 100 |
 | [25](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Reverse Nodes in k-Group              | Hard       | 2019.02.17-18 | √ 100 |
 | [138](https://leetcode.com/problems/copy-list-with-random-pointer/) | Copy List with Random Pointer | Medium | 2019.02.19 | X |
-| [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | 2019.02.20 | |
+| [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | 2019.02.20 | √ 20.36 |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List Cycle II | Medium | 2019.02.21 | |
 | [143](https://leetcode.com/problems/reorder-list/) | Reorder List | Medium | 2019.02.22 | |
 | [146](https://leetcode.com/problems/lru-cache/) | LRU Cache | Hard | 2019.02.23-24 | |

@@ -5,7 +5,7 @@ using namespace std;
 struct RandomListNode {
     int label;
     RandomListNode *next, *random;
-    RandomListNode(int x) : label(x), id(-1), next(NULL), random(NULL) {}
+    RandomListNode(int x) : label(x), next(NULL), random(NULL) {}
 };
 
 // 这道题很厉害，我一点思路也没有，实在没想出来怎么区分node。
