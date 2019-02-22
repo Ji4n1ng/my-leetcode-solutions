@@ -42,7 +42,7 @@ Let's fuck it up.
 | [138](https://leetcode.com/problems/copy-list-with-random-pointer/) | Copy List with Random Pointer | Medium | 2019.02.19 | X |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | 2019.02.20 | √ 20.36 |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List Cycle II | Medium | 2019.02.21 | √ 5.34 |
-| [143](https://leetcode.com/problems/reorder-list/) | Reorder List | Medium | 2019.02.22 | |
+| [143](https://leetcode.com/problems/reorder-list/) | Reorder List | Medium | 2019.02.22 | √ 100 |
 | [146](https://leetcode.com/problems/lru-cache/) | LRU Cache | Hard | 2019.02.23-24 | |
 | [125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome | Easy | 2019.02.25 | |
 | [28](https://leetcode.com/problems/implement-strstr/) | Implement strStr() | Easy | 2019.02.26 | |
