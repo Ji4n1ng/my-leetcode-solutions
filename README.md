@@ -44,7 +44,7 @@ Let's fuck it up.
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List Cycle II | Medium | 2019.02.21 | √ 5.34 |
 | [143](https://leetcode.com/problems/reorder-list/) | Reorder List | Medium | 2019.02.22 | √ 100 |
 | [146](https://leetcode.com/problems/lru-cache/) | LRU Cache | Hard | 2019.02.23-24 | √ 9.62 |
-| [125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome | Easy | 2019.02.25 | |
+| [125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome | Easy | 2019.02.25 | √ 98.26 |
 | [28](https://leetcode.com/problems/implement-strstr/) | Implement strStr() | Easy | 2019.02.26 | |
 | [8](https://leetcode.com/problems/string-to-integer-atoi/) | String to Integer (atoi) | Medium | 2019.02.27 | |
 | [67](https://leetcode.com/problems/add-binary/) | Add Binary | Easy | 2019.02.28 | |
