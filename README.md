@@ -45,7 +45,7 @@ Let's fuck it up.
 | [143](https://leetcode.com/problems/reorder-list/) | Reorder List | Medium | 2019.02.22 | √ 100 |
 | [146](https://leetcode.com/problems/lru-cache/) | LRU Cache | Hard | 2019.02.23-24 | √ 9.62 |
 | [125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome | Easy | 2019.02.25 | √ 98.26 |
-| [28](https://leetcode.com/problems/implement-strstr/) | Implement strStr() | Easy | 2019.02.26 | |
+| [28](https://leetcode.com/problems/implement-strstr/) | Implement strStr() | Easy | 2019.02.26 | √ 22.33 |
 | [8](https://leetcode.com/problems/string-to-integer-atoi/) | String to Integer (atoi) | Medium | 2019.02.27 | |
 | [67](https://leetcode.com/problems/add-binary/) | Add Binary | Easy | 2019.02.28 | |
 | [5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | Medium | 2019.03.01 | |
