@@ -49,5 +49,17 @@ Let's fuck it up.
 | [8](https://leetcode.com/problems/string-to-integer-atoi/) | String to Integer (atoi) | Medium | 2019.02.27 | |
 | [67](https://leetcode.com/problems/add-binary/) | Add Binary | Easy | 2019.02.28 | √ 95.80 |
 | [5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | Medium | 2019.03.01 | √ 67.12 |
-
-
+| [10](https://leetcode.com/problems/regular-expression-matching/) | Regular Expression Matching | Hard | 2019.03.09-10 |  |
+| [44](https://leetcode.com/problems/wildcard-matching/) | Wildcard Matching | Hard | 2019.03.11-12 |  |
+| [14](https://leetcode.com/problems/longest-common-prefix/) | Longest Common Prefix | Easy | 2019.03.13-14 |  |
+| [65](https://leetcode.com/problems/valid-number/) | Valid Number | Hard | 2019.03.15-16 |  |
+| [12](https://leetcode.com/problems/integer-to-roman/) | Integer to Roman | Medium | 2019.03.17-18 |  |
+| [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | Easy | 2019.03.19-20 |  |
+| [38](https://leetcode.com/problems/count-and-say/) | Count and Say | Easy | 2019.03.21-22 |  |
+| [49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium | 2019.03.23-24 |  |
+| [71](https://leetcode.com/problems/simplify-path/) | Simplify Path | Medium | 2019.03.25-26 |  |
+| [58](https://leetcode.com/problems/length-of-last-word/) | Length of Last Word | Easy | 2019.03.27-28 |  |
+| [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | Easy | 2019.03.29-30 |  |
+| [32](https://leetcode.com/problems/longest-valid-parentheses/) | Longest Valid Parentheses | Hard | 2019.03.31-04.01 |  |
+| [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Largest Rectangle in Histogram | Hard | 2019.04.02-03 |  |
+| [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | Medium | 2019.04.04-05 |  |
