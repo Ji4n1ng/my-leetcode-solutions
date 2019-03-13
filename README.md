@@ -49,9 +49,9 @@ Let's fuck it up.
 | [8](https://leetcode.com/problems/string-to-integer-atoi/) | String to Integer (atoi) | Medium | 2019.02.27 | |
 | [67](https://leetcode.com/problems/add-binary/) | Add Binary | Easy | 2019.02.28 | √ 95.80 |
 | [5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | Medium | 2019.03.01 | √ 67.12 |
-| [10](https://leetcode.com/problems/regular-expression-matching/) | Regular Expression Matching | Hard | 2019.03.09-10 |  |
+| [10](https://leetcode.com/problems/regular-expression-matching/) | Regular Expression Matching | Hard | 2019.03.09-10 | X |
 | [44](https://leetcode.com/problems/wildcard-matching/) | Wildcard Matching | Hard | 2019.03.11-12 |  |
-| [14](https://leetcode.com/problems/longest-common-prefix/) | Longest Common Prefix | Easy | 2019.03.13-14 |  |
+| [14](https://leetcode.com/problems/longest-common-prefix/) | Longest Common Prefix | Easy | 2019.03.13-14 | √ 99.13 |
 | [65](https://leetcode.com/problems/valid-number/) | Valid Number | Hard | 2019.03.15-16 |  |
 | [12](https://leetcode.com/problems/integer-to-roman/) | Integer to Roman | Medium | 2019.03.17-18 |  |
 | [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | Easy | 2019.03.19-20 |  |
