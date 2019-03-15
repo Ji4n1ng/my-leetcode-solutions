@@ -52,7 +52,7 @@ Let's fuck it up.
 | [10](https://leetcode.com/problems/regular-expression-matching/) | Regular Expression Matching | Hard | 2019.03.09-10 | X |
 | [44](https://leetcode.com/problems/wildcard-matching/) | Wildcard Matching | Hard | 2019.03.11-12 |  |
 | [14](https://leetcode.com/problems/longest-common-prefix/) | Longest Common Prefix | Easy | 2019.03.13-14 | √ 99.13 |
-| [65](https://leetcode.com/problems/valid-number/) | Valid Number | Hard | 2019.03.15-16 |  |
+| [65](https://leetcode.com/problems/valid-number/) | Valid Number | Hard | 2019.03.15-16 | √ 15.59 |
 | [12](https://leetcode.com/problems/integer-to-roman/) | Integer to Roman | Medium | 2019.03.17-18 |  |
 | [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | Easy | 2019.03.19-20 |  |
 | [38](https://leetcode.com/problems/count-and-say/) | Count and Say | Easy | 2019.03.21-22 |  |
