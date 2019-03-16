@@ -54,9 +54,9 @@ Let's fuck it up.
 | [14](https://leetcode.com/problems/longest-common-prefix/) | Longest Common Prefix | Easy | 2019.03.13-14 | √ 99.13 |
 | [65](https://leetcode.com/problems/valid-number/) | Valid Number | Hard | 2019.03.15-16 | √ 15.59 |
 | [12](https://leetcode.com/problems/integer-to-roman/) | Integer to Roman | Medium | 2019.03.17-18 | √ 58.71 |
-| [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | Easy | 2019.03.19-20 |  |
-| [38](https://leetcode.com/problems/count-and-say/) | Count and Say | Easy | 2019.03.21-22 |  |
-| [49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium | 2019.03.23-24 |  |
+| [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | Easy | 2019.03.19-20 | √ 56.67 |
+| [38](https://leetcode.com/problems/count-and-say/) | Count and Say | Easy | 2019.03.21-22 | √ 100 |
+| [49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium | 2019.03.23-24 | √ 84.08 |
 | [71](https://leetcode.com/problems/simplify-path/) | Simplify Path | Medium | 2019.03.25-26 |  |
 | [58](https://leetcode.com/problems/length-of-last-word/) | Length of Last Word | Easy | 2019.03.27-28 |  |
 | [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | Easy | 2019.03.29-30 |  |
