@@ -57,8 +57,8 @@ Let's fuck it up.
 | [13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | Easy | 2019.03.19-20 | √ 56.67 |
 | [38](https://leetcode.com/problems/count-and-say/) | Count and Say | Easy | 2019.03.21-22 | √ 100 |
 | [49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium | 2019.03.23-24 | √ 84.08 |
-| [71](https://leetcode.com/problems/simplify-path/) | Simplify Path | Medium | 2019.03.25-26 |  |
-| [58](https://leetcode.com/problems/length-of-last-word/) | Length of Last Word | Easy | 2019.03.27-28 |  |
+| [71](https://leetcode.com/problems/simplify-path/) | Simplify Path | Medium | 2019.03.25-26 | √ 96.90 |
+| [58](https://leetcode.com/problems/length-of-last-word/) | Length of Last Word | Easy | 2019.03.27-28 | √ 100 |
 | [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | Easy | 2019.03.29-30 |  |
 | [32](https://leetcode.com/problems/longest-valid-parentheses/) | Longest Valid Parentheses | Hard | 2019.03.31-04.01 |  |
 | [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Largest Rectangle in Histogram | Hard | 2019.04.02-03 |  |
