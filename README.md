@@ -59,7 +59,7 @@ Let's fuck it up.
 | [49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium | 2019.03.23-24 | √ 84.08 |
 | [71](https://leetcode.com/problems/simplify-path/) | Simplify Path | Medium | 2019.03.25-26 | √ 96.90 |
 | [58](https://leetcode.com/problems/length-of-last-word/) | Length of Last Word | Easy | 2019.03.27-28 | √ 100 |
-| [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | Easy | 2019.03.29-30 |  |
-| [32](https://leetcode.com/problems/longest-valid-parentheses/) | Longest Valid Parentheses | Hard | 2019.03.31-04.01 |  |
-| [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Largest Rectangle in Histogram | Hard | 2019.04.02-03 |  |
+| [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | Easy | 2019.03.29-30 | √ 99.75 |
+| [32](https://leetcode.com/problems/longest-valid-parentheses/) | Longest Valid Parentheses | Hard | 2019.03.31-04.01 | √ 13.64 |
+| [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Largest Rectangle in Histogram | Hard | 2019.04.02-03 | √ 13.24 |
 | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | Medium | 2019.04.04-05 |  |
