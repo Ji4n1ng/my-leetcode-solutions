@@ -62,4 +62,4 @@ Let's fuck it up.
 | [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | Easy | 2019.03.29-30 | √ 99.75 |
 | [32](https://leetcode.com/problems/longest-valid-parentheses/) | Longest Valid Parentheses | Hard | 2019.03.31-04.01 | √ 13.64 |
 | [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Largest Rectangle in Histogram | Hard | 2019.04.02-03 | √ 13.24 |
-| [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | Medium | 2019.04.04-05 |  |
+| [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | Medium | 2019.04.04-05 | √ 93.42 |
